@@ -3,6 +3,7 @@
     $name = "Fatih";
     $surname = "Yanik";
     $age = 22;
+    $email = "fatihyanik@live.com";
     $my_array = array("Ankara", "İzmir", "Selanik", "İstanbul");
     $check = true;
 
