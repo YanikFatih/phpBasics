@@ -10,7 +10,7 @@ $divisn = $number2 / $number1;
 $remndr = $number2 % $number1;
 
 
-echo("$sum <br> $subtr <br> $mulpt <br> $divisn <br> $remndr <br>"); 
+echo("<br> $sum <br> $subtr <br> $mulpt <br> $divisn <br> $remndr <br>"); 
 
 $number1 += 10; //also -=, *=, /=, %= are avaliable
 echo("new value of number1 : $number1 <br>");
