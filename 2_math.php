@@ -27,6 +27,6 @@ echo "number3 to power of 4: ".pow($number3,4)."<br><br>";
 echo "Absolute value of number3: ".abs($number3)."<br><br>";
 
 $smallest = min(9, 5, 12, 8, 24); 
-echo "smallest one: $smallest";
+echo "Smallest one in array: $smallest";
 
 ?>
